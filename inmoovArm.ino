@@ -9,12 +9,12 @@ bool defaultFlag = true;
 const int fingerPos[][5] = {                                         
     {175, 0, 175, 175, 175},    // Palma                            pal
     {95, 75, 75, 50, 75},       // Punio                            pun
-    {95, 75, 175, 50, 75},      // Sacar el dedo                    sed
+    {95, 75, 175, 50, 75},      // ???                              sed
     {95, 0, 175, 50, 75},       // Paz                              paz
     {175, 0, 75, 50, 175},      // Spiderman                        spm
     {95, 75, 175, 175, 175},    // Ok                               okk
     {95, 75, 75, 50, 175},      // Menique                          bem
-    {175, 75, 75, 50, 175}      // Pose de pendejo en playa         ppp
+    {175, 75, 75, 50, 175}      // ???                              ppp
 };
 
 void setup()
