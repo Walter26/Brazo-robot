@@ -1,0 +1,5 @@
+{
+    "sketch": "inmoovArm.ino",
+    "board": "arduino:avr:megaADK",
+    "port": "COM5"
+}
