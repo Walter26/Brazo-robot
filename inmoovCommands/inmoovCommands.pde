@@ -39,6 +39,9 @@ void draw()
         case '8':
           ardPort.write(7);
           break;
+        case 'j':
+          ardPort.write(666);
+          break;
       }
   }
 }
