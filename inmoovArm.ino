@@ -30,7 +30,7 @@ void setup()
     }
 
     for(int i = 0; i < 5; i++) {
-        fingerServo[i].write(fingerPos[0][i]);
+        fingerServo[i].write(fingerPos[3][i]);
     }
 
     Serial.begin(9600);
